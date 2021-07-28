@@ -95,4 +95,4 @@ export OPENFAAS_URL="" # populate as above
 ```
 
 
-Next: [Exercise 1](./exercise1)
+Next: [Exercise 1](./exercise1.md)
